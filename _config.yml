@@ -12,7 +12,7 @@ github_repo: "https://github.com/ncwss/ncwss.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "双足未来大佬!"
-sidebar-avatar: /img/desert.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/压缩-tiger.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
